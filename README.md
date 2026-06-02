@@ -103,7 +103,7 @@
             text-align: center; 
             margin-top: 60px; 
             font-size: 0.8em; 
-            color: #7f8c8d; 
+            color: #3b4445; 
             border-top: 1px solid #eee; 
             padding-top: 15px; 
         }
