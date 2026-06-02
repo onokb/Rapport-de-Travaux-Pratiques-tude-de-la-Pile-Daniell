@@ -104,7 +104,7 @@
             margin-top: 60px; 
             font-size: 0.8em; 
             color: #3b4445; 
-            border-top: 1px solid #eee; 
+            border-top: 1px solid #787676; 
             padding-top: 15px; 
         }
     </style>
