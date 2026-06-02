@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="fr">
 <head>
     <meta charset="UTF-8">
@@ -104,7 +104,7 @@
             margin-top: 60px; 
             font-size: 0.8em; 
             color: #3b4445; 
-            border-top: 1px solid #787676; 
+            border-top: 1px solid #868383; 
             padding-top: 15px; 
         }
     </style>
